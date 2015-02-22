@@ -2,3 +2,13 @@
   max-width: 100%;
   height: auto;
 }
+#page-header .lead {
+  font-size: 1.0em;
+  text-transform: uppercase;
+  color: #999;
+  padding-bottom: 1em;
+}
+
+body.front h1.page-header { 
+  display: none;
+}
